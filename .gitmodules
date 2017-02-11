@@ -1,0 +1,12 @@
+[submodule "CM3D2.AlwaysColorChangeEx.Plugin"]
+	path = CM3D2.AlwaysColorChangeEx.Plugin
+	url = git@github.com:nekopanda/CM3D2.AlwaysColorChangeEx.Plugin.git
+[submodule "CM3D2.AddYotogiSlider.Plugin"]
+	path = CM3D2.AddYotogiSlider.Plugin
+	url = git@github.com:nekopanda/CM3D2.AddYotogiSlider.Plugin.git
+[submodule "JsonFx"]
+	path = JsonFx
+	url = git@github.com:nekopanda/jsonfx.git
+[submodule "jsonfx-for-unity3d"]
+	path = jsonfx-for-unity3d
+	url = git@github.com:nekopanda/jsonfx-for-unity3d.git
